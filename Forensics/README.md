@@ -1,1 +1,1 @@
-
+Od dołu są zadania w takie samej koleności jakbyśmy zaznaczyli na CTFlearn Category Forensics, Difficulty Easy, Solved All, jednak staraj się nie poddawać i nie kopiować bezmyślnie flagi postaraj się to rozwiązać, daje to bardzo dużo satysfakcji nawet na łatwym poziomie.

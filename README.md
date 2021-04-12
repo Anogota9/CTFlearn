@@ -1,2 +1,2 @@
-# CTFlearn
+# CTFlearn Forensics Easy
 CTFlearn Challenges

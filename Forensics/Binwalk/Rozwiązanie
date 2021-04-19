@@ -1,1 +1,5 @@
-
+Binwalk, do rozwiązania tego CTF'a będzie nam potrzebne narzędzie binwalk jak sama nazwa wskazuje, można je pobrać otwierając termianl i wpisując:
+sudo apt insll binwalk -y         [sudo] password for (twoja nazwa): (w tym miejsicu wpisujemy hasło)
+Po zainstalowaniu należy sprawdzić czy się zainstalowało wystarczy poprostu wpisać binwalk -h, jeżeli w consoli ukażą się nam podpowiedzi jak obsługiwać binwalk
+program został poprawnie zainstalowany. Więc możemy przejsć do działania.
+Przejdźmy do link'a który został podany w zadaniu, pobierz go, wejdź do consoli wpisz cd Downloads, następnie wpisz ls aby się upewnic 
